@@ -1,0 +1,27 @@
+/*gruvbox theme*/
+::selection
+{
+/*background-color: #504945;*/
+    background-color: #000;
+    outline: 1px solid red;
+}
+body
+{
+    background-color: #282828;
+    font-family: 'Roboto', sans-serif;
+}
+h1
+{
+    font-family: 'Roboto', sans-serif;
+    color: #fb4934;
+    font-size: 30px;
+    font-weight: 300
+}
+a
+{
+    font-family: 'Roboto', sans-serif;
+    color: #83a598;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: 300;
+}
