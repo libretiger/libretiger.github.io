@@ -5,11 +5,13 @@
     background-color: #000;
     outline: 1px solid red;
 }
+
 body
 {
     background-color: #282828;
     font-family: 'Roboto', sans-serif;
 }
+
 h1
 {
     font-family: 'Roboto', sans-serif;
@@ -17,6 +19,7 @@ h1
     font-size: 30px;
     font-weight: 300
 }
+
 a
 {
     font-family: 'Roboto', sans-serif;
@@ -24,4 +27,5 @@ a
     margin-left: 5px;
     margin-right: 5px;
     font-weight: 300;
+    text-decoration: none;
 }
