@@ -29,3 +29,17 @@ a
     font-weight: 300;
     text-decoration: none;
 }
+
+.block
+{
+    background-color: #3c3836;
+    width: 9%;
+    height: 39px;
+    margin: 3px;
+    display: inline-block;
+}
+
+.block:hover
+{
+  background-color: #fabd2f;
+}
