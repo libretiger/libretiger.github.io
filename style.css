@@ -33,7 +33,7 @@ a
     color: #8ec07c;
     font-size: 19px;
     font-weight: 300;
-    display: inline;
+    display: inline-block;
     text-decoration: none;
     padding: 5px;
 }
